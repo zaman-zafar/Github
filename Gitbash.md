@@ -1,6 +1,6 @@
 # First commands for Git-bash
-Git config - - global user.name " your name" 
-Git config - - global user.email "your email" 
+Git config  --global user.name " your name" 
+Git config  --global user.email "your email" 
 
 ## To see the file that shows user name and email ID
 Cat ~/.gitconfig           
