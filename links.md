@@ -6,4 +6,6 @@
  
  http://admin-pc:4040/jobs/
  
+ https://github.com/edenau/ml-in-numpy/blob/master/neural-net.ipynb
+ 
  

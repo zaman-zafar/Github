@@ -9,7 +9,7 @@ Cat ~/.gitconfig
 ssh-keygen -o 
 
 ## Copy SSH Key and paste inside Github Profile
-Cat *location of ssh key*
+cat ~/.ssh/id_rsa.pub
 
 ## To Clone a repository
 Git clone *paste the url of repository you want to copy *
