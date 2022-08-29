@@ -11,7 +11,12 @@ ssh-keygen -o
 ## Copy SSH Key and paste inside Github Profile
 cat ~/.ssh/id_rsa.pub
 
-## To Clone a repository
+##to add another ssh to git terminal
+
+ssh-agent /bin/bash
+ssh-add                      -- enter location of ssh key
+
+## To Clone a repository   --   important
 Git clone *paste the url of repository you want to copy *
 
 ## To List all file including hidden files
