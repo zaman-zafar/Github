@@ -11,7 +11,7 @@ ssh-keygen -o
 ## Copy SSH Key and paste inside Github Profile
 cat ~/.ssh/id_rsa.pub
 
-##to add another ssh to git terminal
+## to add another ssh to git terminal
 
 ssh-agent /bin/bash
 ssh-add                      -- enter location of ssh key
